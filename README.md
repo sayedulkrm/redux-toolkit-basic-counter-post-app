@@ -1,3 +1,5 @@
+# A basic React App with Redux toolkit. Also Pagination Added in fethcing post.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
